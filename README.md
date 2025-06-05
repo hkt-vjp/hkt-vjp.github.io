@@ -1,1 +1,1 @@
-# hkt-vjp.github.io
+Xem hướng dẫn chi tiết trong canvas Backend Repo Readme
